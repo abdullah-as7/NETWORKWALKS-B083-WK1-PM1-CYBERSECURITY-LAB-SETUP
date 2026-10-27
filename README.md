@@ -88,6 +88,9 @@ Other checks: confirm the NAT Network was created correctly, confirm no other VM
 ## Author
 
 M. Abdullah Ashraf
+
 Internship: Networkwalks Academy
+
 Instructor: Waqas Karim, CCIE
+
 Week 1 Project Module 1 (WK1-PM1)
